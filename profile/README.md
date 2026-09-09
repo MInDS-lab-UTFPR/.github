@@ -47,6 +47,12 @@ The projects remain hosted and maintained in their original repositories. Please
 * **[MLLM Persona Agent Studio](https://github.com/neemiasbsilva/MLLM-persona-agent-studio)** — Desktop environment for persona-based evaluation and annotation using multimodal and text LLMs.
   Maintained by [@neemiasbsilva](https://github.com/neemiasbsilva)
 
+* **[Twitter Image Dataset](https://github.com/johnwsh/twitterDataset)** — Resources for an image dataset collected from Twitter, including scripts for generating image captions and descriptions using the OpenAI API.
+  Maintained by [@johnwsh](https://github.com/johnwsh)
+
+* **[Midjourney Selenium Automation](https://github.com/johnwsh/automacaoSelenium)** — Selenium-based automation tool for submitting image-generation requests to Midjourney through the Discord web interface.
+  Maintained by [@johnwsh](https://github.com/johnwsh)
+
 * **[MLLMs: Teoria e Prática](https://github.com/neemiasbsilva/MLLMs-Teoria-e-Pratica)** — Educational material and practical notebooks covering Multimodal Large Language Models.
   Maintained by [@neemiasbsilva](https://github.com/neemiasbsilva)
 
@@ -116,6 +122,7 @@ These resources represent research and development conducted by members and coll
 * Urban Computing and Human Mobility
 * Natural Language Processing
 * Multimodal and Large Language Models
+* Generative AI
 * Social Network Analysis
 * Online Social Behavior
 * Advanced Manufacturing
