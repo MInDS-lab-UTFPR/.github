@@ -6,12 +6,11 @@ The projects remain hosted and maintained in their original repositories. Please
 
 ---
 
-
 ## Urban Computing, Mobility & Location-Based Data
 
 * **[CityBehavEx](https://github.com/gefgu/citybehavex)** — LLM-assisted platform for city-scale urban behavior and mobility simulation.
   Maintained by [@gefgu](https://github.com/gefgu)
-  
+
 * **[REAL-UP](https://github.com/francessantos/real-up)** — Urban perception analysis from location-based social networks for real-estate applications.
   Maintained by [@francessantos](https://github.com/francessantos)
 
@@ -38,6 +37,12 @@ The projects remain hosted and maintained in their original repositories. Please
 ---
 
 ## Natural Language Processing, Multimodal AI & LLMs
+
+* **[Persona Validity in MLLM Agents](https://github.com/MInDS-lab-UTFPR/MLLMs-persona-evaluation)** — Project page and research resources for evaluating persona validity in multimodal LLM agents for urban sentiment perception.
+  Hosted by [MInDS Lab @ UTFPR](https://github.com/MInDS-lab-UTFPR)
+
+* **[Multimodal LLMs See Sentiment](https://github.com/MInDS-lab-UTFPR/multimodal-LLMs-see-sentiment-project-page)** — Project page and research resources exploring the ability of multimodal large language models to recognize and reason about visual sentiment.
+  Hosted by [MInDS Lab @ UTFPR](https://github.com/MInDS-lab-UTFPR)
 
 * **[MLLM Persona Agent Studio](https://github.com/neemiasbsilva/MLLM-persona-agent-studio)** — Desktop environment for persona-based evaluation and annotation using multimodal and text LLMs.
   Maintained by [@neemiasbsilva](https://github.com/neemiasbsilva)
@@ -69,6 +74,7 @@ The projects remain hosted and maintained in their original repositories. Please
   Maintained by [@ribaslucian](https://github.com/ribaslucian)
 
 ---
+
 ## Computer Vision, Remote Sensing & Advanced Manufacturing
 
 * **[ActiveFire](https://github.com/pereira-gha/activefire)** — Active fire detection and segmentation using satellite imagery and deep learning.
@@ -99,6 +105,7 @@ The projects remain hosted and maintained in their original repositories. Please
   Maintained by [@SylvioBlock](https://github.com/SylvioBlock)
 
 ---
+
 ## About These Projects
 
 These resources represent research and development conducted by members and collaborators of our institution across areas including:
@@ -115,4 +122,3 @@ These resources represent research and development conducted by members and coll
 * Data Science and Data Engineering
 
 Repository ownership, licensing, maintenance status, and citation requirements may differ across projects. Please consult each project's repository for the corresponding information.
-
