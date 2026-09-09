@@ -9,9 +9,9 @@ The projects remain hosted and maintained in their original repositories. Please
 
 ## Urban Computing, Mobility & Location-Based Data
 
-* **[SLKit](https://github.com/FdeFabricio/slkit)** — R package for extracting and analyzing properties from multiple urban sensing layers.
-  Maintained by [@FdeFabricio](https://github.com/FdeFabricio)
-
+* **[CityBehavEx](https://github.com/gefgu/citybehavex)** — LLM-assisted platform for city-scale urban behavior and mobility simulation.
+  Maintained by [@gefgu](https://github.com/gefgu)
+  
 * **[REAL-UP](https://github.com/francessantos/real-up)** — Urban perception analysis from location-based social networks for real-estate applications.
   Maintained by [@francessantos](https://github.com/francessantos)
 
@@ -21,8 +21,8 @@ The projects remain hosted and maintained in their original repositories. Please
 * **[Google Places Enricher 2.0](https://github.com/diegookawa/google_places_enricher_2.0)** — Web-based version of Google Places Enricher with a user interface.
   Maintained by [@diegookawa](https://github.com/diegookawa)
 
-* **[CityBehavEx](https://github.com/gefgu/citybehavex)** — LLM-assisted platform for city-scale urban behavior and mobility simulation.
-  Maintained by [@gefgu](https://github.com/gefgu)
+* **[SLKit](https://github.com/FdeFabricio/slkit)** — R package for extracting and analyzing properties from multiple urban sensing layers.
+  Maintained by [@FdeFabricio](https://github.com/FdeFabricio)
 
 ### Public Transportation Data
 
@@ -80,6 +80,9 @@ The projects remain hosted and maintained in their original repositories. Please
 * **[LoHi-Weld](https://github.com/SylvioBlock/LoHi-Weld)** — Computer vision and deep-learning methods applied to welding inspection.
   Maintained by [@SylvioBlock](https://github.com/SylvioBlock)
 
+* **[PerceptSent](https://github.com/ceslop84/perceptsent)** — Dataset and methods for visual sentiment analysis and the study of subjective image perception.
+  Maintained by [@ceslop84](https://github.com/ceslop84)
+
 * **[Landsat-8 to Sentinel-2 Transfer Learning: Seamlines](https://github.com/Minoro/l8tos2-transf-seamlines)** — Transfer-learning experiments investigating seamline effects across satellite imagery.
   Maintained by [@Minoro](https://github.com/Minoro)
 
@@ -94,9 +97,6 @@ The projects remain hosted and maintained in their original repositories. Please
 
 * **[Imprints](https://github.com/SylvioBlock/Imprints)** — Detection and classification of imprint defects in stamped metal surfaces.
   Maintained by [@SylvioBlock](https://github.com/SylvioBlock)
-
-* **[PerceptSent](https://github.com/ceslop84/perceptsent)** — Dataset and methods for visual sentiment analysis and the study of subjective image perception.
-  Maintained by [@ceslop84](https://github.com/ceslop84)
 
 ---
 ## About These Projects
