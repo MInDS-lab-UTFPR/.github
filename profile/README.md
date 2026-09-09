@@ -6,36 +6,6 @@ The projects remain hosted and maintained in their original repositories. Please
 
 ---
 
-## Computer Vision, Remote Sensing & Advanced Manufacturing
-
-* **[ActiveFire](https://github.com/pereira-gha/activefire)** — Active fire detection and segmentation using satellite imagery and deep learning.
-  Maintained by [@pereira-gha](https://github.com/pereira-gha)
-
-* **[Slicing](https://github.com/rminetto/slicing)** — Algorithms and implementations for 3D triangular mesh slicing.
-  Maintained by [@rminetto](https://github.com/rminetto)
-
-* **[LoHi-Weld](https://github.com/SylvioBlock/LoHi-Weld)** — Computer vision and deep-learning methods applied to welding inspection.
-  Maintained by [@SylvioBlock](https://github.com/SylvioBlock)
-
-* **[Landsat-8 to Sentinel-2 Transfer Learning: Seamlines](https://github.com/Minoro/l8tos2-transf-seamlines)** — Transfer-learning experiments investigating seamline effects across satellite imagery.
-  Maintained by [@Minoro](https://github.com/Minoro)
-
-* **[Transfer Learning: Landsat-8 to Sentinel-2](https://github.com/Minoro/transfer-learning-landsat8-sentinel2)** — Transfer learning for active-fire segmentation between Landsat-8 and Sentinel-2 imagery.
-  Maintained by [@Minoro](https://github.com/Minoro)
-
-* **[DED-IM](https://github.com/machipanski/DED-IM)** — Image-based mapping and tool-path planning for Wire Arc Directed Energy Deposition.
-  Maintained by [@machipanski](https://github.com/machipanski)
-
-* **[Ridge Count](https://github.com/Bonacim/ridge-count)** — Machine-learning methods for fingerprint ridge counting.
-  Maintained by [@Bonacim](https://github.com/Bonacim)
-
-* **[Imprints](https://github.com/SylvioBlock/Imprints)** — Detection and classification of imprint defects in stamped metal surfaces.
-  Maintained by [@SylvioBlock](https://github.com/SylvioBlock)
-
-* **[PerceptSent](https://github.com/ceslop84/perceptsent)** — Dataset and methods for visual sentiment analysis and the study of subjective image perception.
-  Maintained by [@ceslop84](https://github.com/ceslop84)
-
----
 
 ## Urban Computing, Mobility & Location-Based Data
 
@@ -99,7 +69,36 @@ The projects remain hosted and maintained in their original repositories. Please
   Maintained by [@ribaslucian](https://github.com/ribaslucian)
 
 ---
+## Computer Vision, Remote Sensing & Advanced Manufacturing
 
+* **[ActiveFire](https://github.com/pereira-gha/activefire)** — Active fire detection and segmentation using satellite imagery and deep learning.
+  Maintained by [@pereira-gha](https://github.com/pereira-gha)
+
+* **[Slicing](https://github.com/rminetto/slicing)** — Algorithms and implementations for 3D triangular mesh slicing.
+  Maintained by [@rminetto](https://github.com/rminetto)
+
+* **[LoHi-Weld](https://github.com/SylvioBlock/LoHi-Weld)** — Computer vision and deep-learning methods applied to welding inspection.
+  Maintained by [@SylvioBlock](https://github.com/SylvioBlock)
+
+* **[Landsat-8 to Sentinel-2 Transfer Learning: Seamlines](https://github.com/Minoro/l8tos2-transf-seamlines)** — Transfer-learning experiments investigating seamline effects across satellite imagery.
+  Maintained by [@Minoro](https://github.com/Minoro)
+
+* **[Transfer Learning: Landsat-8 to Sentinel-2](https://github.com/Minoro/transfer-learning-landsat8-sentinel2)** — Transfer learning for active-fire segmentation between Landsat-8 and Sentinel-2 imagery.
+  Maintained by [@Minoro](https://github.com/Minoro)
+
+* **[DED-IM](https://github.com/machipanski/DED-IM)** — Image-based mapping and tool-path planning for Wire Arc Directed Energy Deposition.
+  Maintained by [@machipanski](https://github.com/machipanski)
+
+* **[Ridge Count](https://github.com/Bonacim/ridge-count)** — Machine-learning methods for fingerprint ridge counting.
+  Maintained by [@Bonacim](https://github.com/Bonacim)
+
+* **[Imprints](https://github.com/SylvioBlock/Imprints)** — Detection and classification of imprint defects in stamped metal surfaces.
+  Maintained by [@SylvioBlock](https://github.com/SylvioBlock)
+
+* **[PerceptSent](https://github.com/ceslop84/perceptsent)** — Dataset and methods for visual sentiment analysis and the study of subjective image perception.
+  Maintained by [@ceslop84](https://github.com/ceslop84)
+
+---
 ## About These Projects
 
 These resources represent research and development conducted by members and collaborators of our institution across areas including:
